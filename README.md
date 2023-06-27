@@ -14,7 +14,8 @@ Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia, administra
   <img align="center" alt="Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-   <img align="center" alt="Spring" height="30" width="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg">  
+  <img align="center" alt="Spring" height="30" width="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg">  
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  
 </div>
 
 <hr/>

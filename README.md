@@ -8,8 +8,13 @@ Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia, administra
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://icomoon.io/iconsabf18a1/4/649.svg">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+
 </div>
+
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0509&layout=compact&hide_border=true&hide=css,html,scss,python&theme=dracula)](https://github.com/pedro0509/github-readme-stats)
 <!--
 **pedro0509/pedro0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

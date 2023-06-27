@@ -3,12 +3,18 @@ Formado em Sistemas de Informações pela UNIFIO Ourinhos/SP, desenvolvo em Java
 Me dedico a projetos pessoais e em alguns freelances, usando de Java, Spring, PostgreSQL, Flutter, Oracle Cloud, Heroku, sqlite, firebase.
 Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia, administração e inovação :satellite:
 
+# Habilidades
+
 <div style="display: inline-block"><br>
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Heroku" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/heroku">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/flutter">
+    
 
 </div>
 

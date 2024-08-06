@@ -1,7 +1,14 @@
-Sou o Pedro, atuo como Agente local de Inovação em Cornélio Procópio, também atuei como professor no ensino técnico na área de informática da SEED PR, ministrando aulas como Desenvolvimento Mobile, Bando de Dados, Programação-front and e tecnologia da informação. :man_teacher:
-Formado em Sistemas de Informações pela UNIFIO Ourinhos/SP, desenvolvo em Java desde 2016 :man_technologist:. 
-Me dedico a projetos pessoais e em alguns freelances, usando de Java, Spring, PostgreSQL, Flutter, Oracle Cloud, Heroku, sqlite, firebase.
+# Olá, me chamo Pedro ! 
+## Bem vindo ao meu perfil GitHub 👋
+
+Atuo como Instrutor Profissional do SENAC PC, na área de Informática e T.I.C., também atuo como professor no ensino técnico na área de informática da SEED PR, ministrando aulas como Desenvolvimento Mobile, Bando de Dados, Programação-front e Back-end and e tecnologia da informação. :man_teacher: 
+Formado em Sistemas de Informações pela UNIFIO Ourinhos/SP, desenvolvo em Java desde 2016 :man_technologist:. Líder técnico com histórico de sucesso em projetos robustos. Tenho um forte vínculo com o empreendedorismo inovador e políticas públicas de incentivo à ecossistemas de inovação. 
+Atualmente atuo também como desenvolvedor Java Full Stack na startup [SegMarket](https://segmarket.com.br/) e me dedico a outros projetos pessoais e em alguns freelances. Atualmente possuo minhas expertises nas tecnologias: Java 17+, Spring boot, Thymeleaf, PostgreSql, Mysql, JPA, Hibernate e Azure Spring Apps.
 Sou uma pessoa que ama estudar, tanto TI, como também 💸 economia, administração e inovação :satellite:
+
+<a href="https://instagram.com/pedro_domingues05" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mtdomingues" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 
 # Habilidades
 

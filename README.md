@@ -4,7 +4,7 @@
 
 💼 Atualmente, atuo como Desenvolvedor Java Full Stack na startup [SegMarket](https://segmarket.com.br/), desenvolvendo aplicações web escaláveis com foco em visão computacional e inteligência artificial. Utilizo tecnologias como Java 17+, Spring Boot, JPA, Thymeleaf e PostgreSQL, além de práticas modernas com microsserviços e cloud (Azure).
 
-👨‍🏫 Também sou Instrutor de T.I. no SENAC PR e professor da rede estadual do Paraná (SEED PR), ministrando disciplinas como Desenvolvimento Mobile, Banco de Dados, Programação Web e Tecnologias da Informação. Busco sempre aplicar metodologias ativas para formar profissionais completos e prontos para o mercado.
+👨‍🏫 Também sou Instrutor de T.I. no SENAC PR e atuei professor da rede estadual do Paraná (SEED PR), ministrando disciplinas como Desenvolvimento Mobile, Banco de Dados, Programação Web e Tecnologias da Informação. Busco sempre aplicar metodologias ativas para formar profissionais completos e prontos para o mercado.
 
 🚀 Tenho uma forte atuação no ecossistema de inovação do Norte Pioneiro do Paraná. Fui cofundador da primeira startup da região, ajudei a fundar o Sistema Regional de Inovação e a Redfoot Community. Como Agente Local de Inovação pelo Sebrae, liderei iniciativas como hackathons, ideathons e apoio a startups.
 

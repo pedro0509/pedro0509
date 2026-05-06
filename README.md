@@ -1,48 +1,55 @@
-# 👋 Olá, sou o Pedro Domingues!
+# 👋 Olá, eu sou o Pedro Domingues!
 
-🎓 Sou formado em Sistemas de Informação pela UNIFIO (Ourinhos/SP) e tenho múltiplas especializações nas áreas de Java, gestão estratégica e finanças. Minha trajetória combina tecnologia, liderança e impacto social.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-💼 Atualmente, atuo como Desenvolvedor Java Full Stack na startup [SegMarket](https://segmarket.com.br/), desenvolvendo aplicações web escaláveis com foco em visão computacional e inteligência artificial. Utilizo tecnologias como Java 17+, Spring Boot, JPA, Thymeleaf e PostgreSQL, além de práticas modernas com microsserviços e cloud (Azure).
+### 👨‍💻 Sobre Mim
+Sou um **Engenheiro de Software Sênior & Tech Lead** apaixonado por construir sistemas escaláveis, resilientes e com propósito. Com mais de 10 anos de estrada no ecossistema Java, minha trajetória une o rigor técnico da engenharia de software com a visão estratégica de quem já co-fundou startups e lidera iniciativas de inovação.
 
-👨‍🏫 Também sou Instrutor de T.I. no SENAC PR e atuei professor da rede estadual do Paraná (SEED PR), ministrando disciplinas como Desenvolvimento Mobile, Banco de Dados, Programação Web e Tecnologias da Informação. Busco sempre aplicar metodologias ativas para formar profissionais completos e prontos para o mercado.
-
-🚀 Tenho uma forte atuação no ecossistema de inovação do Norte Pioneiro do Paraná. Fui cofundador da primeira startup da região, ajudei a fundar o Sistema Regional de Inovação e a Redfoot Community. Como Agente Local de Inovação pelo Sebrae, liderei iniciativas como hackathons, ideathons e apoio a startups.
-
-🌍 Busco unir conhecimento técnico com liderança e propósito, tendo atuado também como presidente do Rotary Club de Cambará, com projetos sociais de grande impacto.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg">
-  <img align="center" alt="Thymeleaf" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/thymeleaf/thymeleaf-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="JPA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jpa/jpa-original.svg">
-  <img align="center" alt="Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-</div>
+- 🛠️ **Atualmente:** Tech Lead na **SegMarket**, onde desenho arquiteturas de microsserviços orientadas a eventos (16k+ req/dia) focadas em Visão Computacional e IA.
+- 🎓 **Acadêmico:** Mestrando em Ciência da Computação (UTFPR) com foco em Engenharia de Software.
+- 🍎 **Educação:** Instrutor no **SENAC PR**, compartilhando conhecimento prático sobre o mercado de tecnologia.
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 🛠️ Meu Stack Tecnológico
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0509&layout=compact&hide_border=true&hide=css,html,scss,python&theme=dracula)](https://github.com/pedro0509/github-readme-stats)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Java (11, 17, 21), Python (Django), Node.js, JavaScript |
+| **Frameworks** | Spring Boot, Spring AI, JPA/Hibernate, React Native, Thymeleaf |
+| **Infra & DevOps** | Azure, Docker, Kubernetes, Jenkins, GitHub Actions, SonarQube |
+| **Mensageria & Dados** | Kafka, PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch |
+| **Observabilidade** | Prometheus, Grafana, Loki, Spring Actuator |
 
 ---
 
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtdomingues)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_domingues05)
+### 🏆 Destaques & Conquistas
+- 🥇 **Melhor Projeto (Semana 2024):** Chatbot de IA para detecção emocional (Spring AI + Azure AI Language).
+- 🏗️ **Arquitetura On-Premise & Cloud:** Gestão de infraestrutura híbrida com foco em alta disponibilidade.
+- 🌍 **Impacto Social:** Ex-presidente do Rotary Club e Agente Local de Inovação (Sebrae).
 
 ---
 
-Estou sempre aberto a novas conexões, parcerias e oportunidades. Vamos conversar?
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro0509&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0509&layout=compact&langs_count=7&theme=dracula&hide=html,css,scss" />
+</p>
+
+---
+
+### 📫 Vamos Conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtdomingues)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_domingues05)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromanoel0509@hotmail.com)
+
+---
+<p align="center">
+  "O código limpo sempre parece que foi escrito por alguém que se importa." — Robert C. Martin
+</p>
